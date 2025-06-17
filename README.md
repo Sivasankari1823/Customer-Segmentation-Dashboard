@@ -54,7 +54,7 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	Dynamic Conditional Formatting (Cards, Tables)
 •	Time Intelligence Functions 
 
-- Dashboard Screenshot <a href="">view Sales report Dashboard Screenshot</a>
+- Dashboard Screenshot <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/commit/0d01f1785a4154482e22220ab0a78c9504dcccd0">view Sales report Dashboard Screenshot</a>
 - Dashboard Screenshot <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/commit/2e9183d8342320e1b66247289d335fddc84a3b02">view Customer report Dashboard Screenshot</a>
 
 # 🔍 Project Insights
@@ -80,6 +80,10 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	🧭 **Lakshadweep Island** has the highest sales at **6M+**.
 
 •	📅 Customer acquisition shows consistent upward trend since **2020**.
+
+# 🧾 Final Conclusion
+
+This Power BI dashboard demonstrates a strong understanding of data visualization, business KPIs, and customer behavior analysis. It provides actionable insights for decision-makers to improve customer targeting, boost sales, and drive engagement. 
 
 
 
