@@ -43,7 +43,7 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	📅 Customer Trend by Year – What’s the customer growth pattern?
 
 - Dashboard Interation <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/commit/2e9183d8342320e1b66247289d335fddc84a3b02">view Dashboard</a>
-- Dax Quries <a href="">view Dax Quries</a>
+- Dax Quries <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/blob/main/Dax%20Quries.docx">view Dax Quries</a>
 
 
 # 🛠️ Tools & Technologies Used
