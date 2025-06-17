@@ -5,6 +5,7 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 
 ## Dataset Used
 
+- <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/commit/2e9183d8342320e1b66247289d335fddc84a3b02"> Dataset</a>
 
 # ❓ Questions Answered (KPIs Used)
 ## Sales Report Dashboard
