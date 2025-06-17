@@ -55,7 +55,7 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	Time Intelligence Functions 
 
 - Dashboard Screenshot <a href="">view Sales report Dashboard Screenshot</a>
-- Dashboard Screenshot <a href="">view Customer report Dashboard Screenshot</a>
+- Dashboard Screenshot <a href="https://github.com/Sivasankari1823/Customer-Segmentation-Dashboard/commit/2e9183d8342320e1b66247289d335fddc84a3b02">view Customer report Dashboard Screenshot</a>
 
 # 🔍 Project Insights
 
