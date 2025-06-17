@@ -3,6 +3,9 @@ This Power BI project provides a comprehensive Customer Segmentation Analysis, f
 # 🎯 Project Objective
 To analyze and visualize customer and sales data across multiple dimensions — such as age, gender, region, education level, and language — and identify key customer segments using KPIs like total sales, average sales, ratings, and RFM (Recency, Frequency, Monetary) insights.
 
+## Dataset Used
+
+
 # ❓ Questions Answered (KPIs Used)
 ## Sales Report Dashboard
 •	💰 Total Sales – What is the total sales revenue?
@@ -37,4 +40,14 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	🌎 Regional Distribution – Where are most customers located?
 
 •	📅 Customer Trend by Year – What’s the customer growth pattern?
+
+
+
+
+
+
+
+
+
+
 
