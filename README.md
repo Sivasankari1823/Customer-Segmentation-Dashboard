@@ -43,6 +43,31 @@ To analyze and visualize customer and sales data across multiple dimensions — 
 •	📅 Customer Trend by Year – What’s the customer growth pattern?
 
 
+# 🛠️ Tools & Technologies Used
+•	Power BI Desktop
+•	DAX (Data Analysis Expressions)
+•	Power Query (ETL)
+•	Custom Visuals & Bookmarks
+•	Dynamic Titles, Filters & Slicers
+•	Dynamic Conditional Formatting (Cards, Tables)
+•	Time Intelligence Functions 
+
+# 🔍 Project Insights
+
+## Sales Report Insights:
+•	📈 Total Sales reached **13M** with **17.25%** YoY Growth.
+•	🌟 Customer Rating is moderate at **2.8**out of **5**.
+•	🏆 Highest Sales observed from Male, **Age 20–40** with **5.27M**
+•	🌍 **Hindi** speakers contributed the most to sales **(26.6%)**.
+•	🗺 **Daman and Diu** were top performing state according to average sales .
+## Customer Report Insights:
+•	👥 Total Customers count at **40,259** with **19.8%** growth from last year.
+•	💸 Average Sales per customer is **4,018** showing solid engagement.
+•	🧓 Majority customers are **60+ with associate degrees**.
+•	🧭 **Lakshadweep Island** has the highest sales at **6M+**.
+•	📅 Customer acquisition shows consistent upward trend since **2020**.
+
+
 
 
 
